@@ -30,7 +30,7 @@ After configuration, invoke `send`  method to send mail.
 
   ```groovy
   dependencies {
-      implementation 'com.google.code.gson:gson:2.8.5'
+      implementation 'com.sun.mail:javax.mail:1.6.2'
   }
   ```
 
