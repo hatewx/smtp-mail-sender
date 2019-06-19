@@ -26,7 +26,7 @@ After configuration, invoke `send`  method to send mail.
 
 + Groovy & Java
 
-  For groovy and java, `javax.mail` is used, so you need declare the dependency.
+  For groovy and java, `javax.mail` is used, so you need declare the dependencies.
 
   ```groovy
   dependencies {
@@ -36,7 +36,7 @@ After configuration, invoke `send`  method to send mail.
 
 + Python
 
-  `smtplib` and `email` module is builtin for python, no extra dependency is needed.
+  `smtplib` and `email` module is builtin for python, no extra dependencies is needed.
   
 
 
