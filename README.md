@@ -2,13 +2,13 @@
 
 
 
-A scripts collection of sending mail via SMTP protocol in various language. **groovy**, **java**, **python** are included by now.
+A scripts collection of sending mail via SMTP protocol in various languages. **groovy**, **java**, **python** are included by now.
 
 
 
 ## Getting started
 
-Finded the version you wanted, integrate to your own project, there are four configureations(or variables)  you need to handle in any script, there are:
+Find the version you wanted, integrate to your own project, there are four configurations(or variables) you need to handle in script, there are:
 
 ```
 # Constants of sender email account.
@@ -18,7 +18,7 @@ host = "{You Host}" # e.g. -> "smtp.google.com"
 port = "{Your Port}" # e.g. -> "465" "587"
 ```
 
-After configuration, invoke `send`  method to send mail.
+After config, invoke `send` method to send mail.
 
 
 
